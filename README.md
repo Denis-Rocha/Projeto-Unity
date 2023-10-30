@@ -1,7 +1,7 @@
 # Projeto-Unity
 Isabella Correia e Denis Rocha
 
-Nosso projeto vai apresentar uma cena de um labirinto de terro, com "montros" e obistáculos 
+Nosso projeto vai apresentar uma cena de um labirinto de terror, com "montros" e obistáculos. O personagem tem que seguir pelo caminho tendo que desviar dos obistáculos, subindo escadas, passando pela porta e logo após ganhando o jogo. 
 # Colisores usados
 Static Collider  
 Este é um GameObject que contém um Collider, mas não possui um RigidBody. É utilizado em objetos que permanecem sempre na mesma posição e não se moverão. Geralmente, esses objetos não são afetados pela física e não aplicam força sobre outros objetos. São comumente utilizados em paredes, pisos, terrenos, etc.
