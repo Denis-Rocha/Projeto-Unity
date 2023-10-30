@@ -5,19 +5,22 @@ Nosso projeto vai apresentar uma cena de um labirinto de terror, com "montros" e
 # Colisores usados
 Static Collider - 
 Este é um GameObject que contém um Collider, mas não possui um RigidBody. É utilizado em objetos que permanecem sempre na mesma posição e não se moverão. Geralmente, esses objetos não são afetados pela física e não aplicam força sobre outros objetos. São comumente utilizados em paredes, pisos, terrenos, etc.
-usado para 
+
+usado nas paredes, chão, obstáculos 
 
 
 
 Rigidbody Collider - 
 Este é um GameObject com um Collider e um Rigidbody normal anexados. Eles são totalmente simulados pelas mecânicas da física e podem reagir a colisões e forças aplicadas por meio de um script.
-usado para 
+
+usado no personagem, na boneca 
 
 
 
 Kinematic Rigidbody Collider - 
 Este é um GameObject com um Collider e um Rigidbody cinemático ligado. É utilizado por meio de um script que modifica seu componente de transformação, mas não responderá a colisões e forças da mesma forma que um corpo rígido não cinemático. Geralmente, são usados para colisores que podem ser movidos, desativados ou ativados ocasionalmente, mas que devem comportar-se como colisores estáticos. Um exemplo disso é uma porta de correr que normalmente atua como um obstáculo físico imóvel, mas que pode ser aberta quando necessário. 
-usado para 
+
+usado na porta 
 
 
 
