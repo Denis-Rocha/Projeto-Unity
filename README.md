@@ -53,3 +53,6 @@ Este é semelhante ao Rigidbody Trigger Collider, mas é usado com objetos Rigid
 
 usado em um dos primeiros obstaculos ( passando por ele aparece um aviso "BOO!" na tela. )
  
+
+# Fotos ![static collider](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/c6213b67-c202-4043-82ea-8ba3899da97a)
+
