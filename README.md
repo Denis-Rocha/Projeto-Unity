@@ -56,7 +56,54 @@ usado em um dos primeiros obstaculos ( passando por ele aparece um aviso "BOO!" 
 
 # Fotos 
 
-static collider
+Static collider
+
 ![static collider](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/c6213b67-c202-4043-82ea-8ba3899da97a) 
+
+
+
+Rigidbody collider
+
+![rididbody collider](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/c40904e3-529f-4408-96d6-57743951174c)
+
+
+Kinematic collider
+
+![kinematic collider](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/99d1de84-eeba-41b5-b9d5-bb5812664982)
+
+
+Static trigger
+
+![static trigger](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/f5089cf5-2bf0-48f7-b5bd-52439f06fa18)
+
+![static trigger2](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/60626e61-05cf-4ecc-a632-32a4c6e8e713)
+
+
+Rigidbody trigger
+
+![rigidbody trigger](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/e3189a01-c0ac-4e10-852e-420b09738097)
+
+![rigidbody trigger2](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/8738ee17-43a3-4e38-90f1-75c4f2023e63)
+
+
+
+Kinematic trigger
+
+![kinematic trigger](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/42dab6ce-954e-4fda-b69c-8b702035efd9)
+
+![kinematic trigger2](https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/93d0875c-f92b-4938-8527-3f4435476fab)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
