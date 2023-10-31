@@ -10,10 +10,14 @@ usado nas paredes, chão e obstáculos.
 
 
 
+
+
 Rigidbody Collider - 
 Este é um GameObject com um Collider e um Rigidbody normal anexados. Eles são totalmente simulados pelas mecânicas da física e podem reagir a colisões e forças aplicadas por meio de um script.
 
 usado no personagem.
+
+
 
 
 
@@ -24,6 +28,8 @@ usado na porta ( quando o jogador colidir com a porta ela abre. )
 
 
 
+
+
 Static Trigger Collider - 
 Este é um colisor que está associado a um objeto estático em um ambiente de jogo. Um objeto estático normalmente não se move durante o jogo. O colisor é marcado como "trigger," o que significa que ele não afeta a física do jogo, mas pode detectar quando outros objetos entram em sua área de colisão. Ele é frequentemente usado para criar áreas de ativação, como zonas de gatilho que disparam eventos quando um jogador ou outro objeto entra na área.
 
@@ -31,10 +37,14 @@ usado no trofel ao fim do jogo ( quando você colide com o trofel aparece uma me
 
 
 
+
+
 Rigidbody Trigger Collider - 
 Este colisor é associado a um objeto que possui um componente Rigidbody, o que significa que ele pode ser afetado pela física do jogo, como gravidade e forças. Quando marcado como "trigger," ele também pode detectar colisões, mas, ao contrário do colisor estático, ele pode interagir com outros objetos fisicamente, como empurrá-los ou ser empurrado por eles, enquanto ainda dispara eventos de colisão. 
 
 usado na  boneca ( ela fica depois da porta, anda em circulos automaticamente, quando acontece a colisão aparece a mensagem " Cuidado comigo". )
+
+
 
 
 
