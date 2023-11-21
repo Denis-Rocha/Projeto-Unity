@@ -112,6 +112,10 @@ Kinematic trigger
 # Link do projeto e video
 https://drive.google.com/drive/folders/1qbzwC5IyzXmsKb9sFYevuYo0f1fEAb0D
 
+Ao chegar no trofeu carrega a cena de fim de jogo.
+
+
+
 
 
 
@@ -126,7 +130,7 @@ Foi criado um menu de inicio, para dar acesso ao jogo.
 
 
 
-E um final que volta ao menu, para te dar a escolha de sair ou jogar de novamente
+E um final que volta ao menu, para te dar a escolha de sair ou jogar de novamente.
 ![fim](https://github.com/Denis-Rocha/Projeto-Unity/assets/127851983/d73f274e-f026-4342-a9eb-464c25486a78)
 
 
