@@ -107,17 +107,27 @@ Kinematic trigger
 
 
 
-# Vídeo
+# Atualização do projeto
+
+# Link do projeto e video
+https://drive.google.com/drive/folders/1qbzwC5IyzXmsKb9sFYevuYo0f1fEAb0D
 
 
-https://github.com/Denis-Rocha/Projeto-Unity/assets/128486492/16bfdf52-9dd8-4112-8cbd-ca821b2b4ba1
 
 
 
-# Link do projeto 
-https://drive.google.com/drive/folders/1KgFoi8JTRWg3lglHv-QXmQsU2l2a7vHp?usp=sharing
+Foi criado um menu de inicio, para dar acesso ao jogo.
+![inicio](https://github.com/Denis-Rocha/Projeto-Unity/assets/127851983/9403ef5c-4014-4bd9-ac98-ee24f19b7990)
 
 
+
+
+
+
+
+
+E um final que volta ao menu, para te dar a escolha de sair ou jogar de novamente
+![fim](https://github.com/Denis-Rocha/Projeto-Unity/assets/127851983/d73f274e-f026-4342-a9eb-464c25486a78)
 
 
 
